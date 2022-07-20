@@ -9,10 +9,10 @@
                             <div class="col-lg-12">
                                 <!-- Page Banner Content Start -->
                                 <div class="page-banner text-center">
-                                    <h2 class="title " style="color:#1F3F6D;">TEST PAPER SCHEME & MARKING</h2>
+                                    <h2 class="title " style="color:#1F3F6D;">EXAM SCHEDULE </h2>
                                     <ul class="breadcrumb justify-content-center">
                                         <li class="breadcrumb-item text-white"><a href="{{ url('/') }}" class="">Home</a></li>
-                                        <li class="breadcrumb-item active text-white" aria-current="page">TEST PAPER SCHEME & MARKING</li>
+                                        <li class="breadcrumb-item active text-white" aria-current="page">EXAM SCHEDULE </li>
                                     </ul>
                                 </div>
                                 <!-- Page Banner Content End -->
@@ -24,7 +24,7 @@
             </div>
             <!-- Page Banner End -->
             <!-- Report Career Section Start -->
-            <div class="section blog-standard-section section-padding my-5">
+            <div class="section blog-standard-section section-padding my-1">
                 <div class="container">
                     <!-- Blog Wrapper Start -->
                     <!-- Blog Wrapper Start science -->
